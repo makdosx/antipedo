@@ -6,7 +6,7 @@ PROTECT CHILDRENS. <br/><br/>
 
 After download Run as Administrator <br/> <br/>
 
-<a href="antipedo.cmd" download> Download </a> <br/> <br/> <br/>
+<a download="antipedo.cmd" download> Download </a> <br/> <br/> <br/>
 
 
 ![stop_child_abuse](img/stop_child_abuse.jpg) 
