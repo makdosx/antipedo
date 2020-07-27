@@ -6,7 +6,7 @@ PROTECT CHILDRENS. <br/><br/>
 
 After download Run as Administrator <br/> <br/>
 
-<a href="https://raw.githubusercontent.com/makdosx/antipedo/master/antipedo.cmd" download="antipedo"> Download </a> <br/> <br/> <br/>
+<a href="antipedo.cmd"> Download </a> <br/> <br/> <br/>
 
 
 ![stop_child_abuse](img/stop_child_abuse.jpg) 
